@@ -1,0 +1,1 @@
+/usr/bin/c++ -ffunction-sections -Wall -Wno-strict-aliasing  -maes -msse2 -msse4.1 -mpclmul -Wno-sign-compare -Wfatal-errors -pthread  -std=c++14 -O3 -DNDEBUG CMakeFiles/PSI_test.dir/main.cpp.o -o ../bin/PSI_test  ../lib/libPSI.a -llibOTe_LIB-NOTFOUND -lcryptoTools_LIB-NOTFOUND /root/tool/miracl/miracl/source/libmiracl.a 

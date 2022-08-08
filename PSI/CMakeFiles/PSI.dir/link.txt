@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libPSI.a CMakeFiles/PSI.dir/src/PsiReceiver.cpp.o CMakeFiles/PSI.dir/src/PsiSender.cpp.o CMakeFiles/PSI.dir/src/utils.cpp.o
+/usr/bin/ranlib ../lib/libPSI.a
